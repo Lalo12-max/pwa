@@ -1,0 +1,21 @@
+{
+  "nombre": "Mi Universidad",
+  "nombre_corto": "MiUni",
+  "url_inicio": "index.html",
+  "visualizacion": "standalone",
+  "color_fondo": "#ffffff",
+  "color_tema": "#004080",
+  "descripcion": "Aplicación de Mi Universidad",
+  "iconos": [
+    {
+      "src": "icons/icon-192.png",
+      "tamaños": "192x192",
+      "tipo": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "tamaños": "512x512",
+      "tipo": "image/png"
+    }
+  ]
+}

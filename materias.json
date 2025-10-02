@@ -1,0 +1,5 @@
+[
+  { "nombre": "matemáticas", "profesor": "García" },
+  { "nombre": "programación", "profesor": "López" },
+  { "nombre": "historia", "profesor": "Ruiz" }
+]
